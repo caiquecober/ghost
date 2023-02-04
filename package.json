@@ -13,6 +13,8 @@
     "ghost": "4.47.4",
     "ghost-storage-cloudinary": "2.2.1",
     "lyra": "github:TryGhost/lyra#main",
+    "bulletin":"github:TryGhost/Bulletin#main",
+    "pico": "github:TryGhost/Pico#main",
     "mysql2": "2.3.3"
   },
   "scripts": {
